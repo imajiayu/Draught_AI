@@ -13,4 +13,6 @@ A simple draught AI engine based on C/C++ and Qt5
 * END
 
   end the game
+  
+  
 ![](https://github.com/imajiayu/Draught_AI/blob/main/screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-03-25%20181450.png)
