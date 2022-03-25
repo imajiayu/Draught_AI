@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/AI_draught">
+        <file>black_flag.png</file>
+        <file>black_king.png</file>
+        <file>green_empty.png</file>
+        <file>white_empty.png</file>
+        <file>white_flag.png</file>
+        <file>white_king.png</file>
+        <file>vivado_logo.ico</file>
+    </qresource>
+</RCC>
