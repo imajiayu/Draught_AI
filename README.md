@@ -1,5 +1,5 @@
 # Draught_AI
-A simple draught AI engine based on C/C++
+A simple draught AI engine based on C/C++ and Qt5
 # Command
 * START [SIDE]
 
